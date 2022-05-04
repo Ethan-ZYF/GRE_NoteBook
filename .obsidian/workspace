@@ -1,0 +1,100 @@
+{
+  "main": {
+    "id": "2894baffa3947e02",
+    "type": "split",
+    "children": [
+      {
+        "id": "4135e37524b666a7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "section 28.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e061ba8445e79c61",
+    "type": "split",
+    "children": [
+      {
+        "id": "ef0649df0bf1b940",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ee0e1277c49c8e1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "472a6510df5e67d7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "07d150125224d921",
+    "type": "split",
+    "children": [
+      {
+        "id": "20436d800ef707f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2acb2b42712d753b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "section 28.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "4135e37524b666a7",
+  "lastOpenFiles": [
+    "section 28.md",
+    "Pasted image 20220504185151.png.md",
+    "GRE Verbal.md",
+    "section 27.md",
+    "Images/28Q6.png",
+    "Images/28Q4.png",
+    "Users/ethan/Documents/Self/GRE/GRE_NoteBook/Images/27Q1.png.md"
+  ]
+}
