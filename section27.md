@@ -2,17 +2,20 @@
 
 ## Q1
 
-- ![[Images/27Q1.png]]
+![](/Images/27Q1.png)
+
 - **Correct Answer: flout**
 
 ## Q6
 
-- ![[Images/27Q6.png]]
+![](/Images/27Q6.png)
+
 - **Correct Answer: celebrate, incommensurate with, stratification**
 
 ## Q10
 
-- ![[Images/27Q10.png]]
+![](/Images/27Q10.png)
+
 - **Correct Answer: slippery, elusive**
 
 # Vocab
