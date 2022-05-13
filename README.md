@@ -13,3 +13,9 @@
 ## [Section 30](section30.md)
 
 ## [Section 31](section31.md)
+
+## [Section 32](section32.md)
+
+## [Section 33](section33.md)
+
+## [Section 34](section34.md)
